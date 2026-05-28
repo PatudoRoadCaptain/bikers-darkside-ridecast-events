@@ -1,6 +1,7 @@
 {
   "id": "2026-06-15-alcacer",
-  "titulo": "Passeio a Alcácer do Sal",
-  "data": "15-06-2026",
-  "descricao": "Passeio tranquilo até Alcácer do Sal."
+  "titulo": "Passeio até Alcácer do Sal",
+  "data": "2026-06-15",
+  "descricao": "Passeio pela Arrábida até Alcácer do Sal.",
+  "flyer": "https://raw.githubusercontent.com/PatudoRoadCaptain/bikers-darkside-ridecast-events/main/flyer_alcacer.jpeg"
 }
