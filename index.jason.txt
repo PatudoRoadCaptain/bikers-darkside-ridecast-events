@@ -1,0 +1,8 @@
+{
+  "eventos": [
+    "2026-06-15-alqueva.json",
+    "2026-07-01-serra-estrela.json",
+    "2026-08-20-noite-negra.json",
+    "2026-09-10-algarve.json"
+  ]
+}
